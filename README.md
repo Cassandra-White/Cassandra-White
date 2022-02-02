@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenue 👋
 
 <!--
 **Cassandra-White/Cassandra-White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![metaHuman](https://github.com/Cassandra-White/Cassandra-White/blob/main/hd.gif)
+
